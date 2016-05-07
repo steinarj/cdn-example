@@ -1,2 +1,2 @@
 # cdn-example
-a little cdn server
+A little cdn server
